@@ -1,0 +1,200 @@
+SPESIFIKASI MEP (MECHANICAL, ELECTRICAL, PLUMBING)
+
+I. SISTEM MECHANICAL (HVAC)
+
+1. Air Conditioning System
+Central AC:
+- Chiller: Water cooled, COP minimum 5.5
+- Air Handling Unit (AHU): Modular construction
+- Fan Coil Unit (FCU): Ceiling concealed type
+- Ducting: Galvanized steel, insulated
+- Refrigerant: R410A (environmentally friendly)
+
+Split AC:
+- Inverter technology untuk efisiensi energi
+- SEER rating minimum 13
+- Low noise operation < 45 dB(A)
+- Auto restart function
+- Timer dan remote control
+
+2. Ventilation System
+- Exhaust fan: Axial dan centrifugal type
+- Fresh air intake minimum 8.5 L/s per person
+- Kitchen exhaust: Grease removal efficiency 90%
+- Toilet exhaust: Air change 8-12 kali per jam
+- Fire damper: 1.5 jam fire rating
+
+3. Fire Fighting System
+Sprinkler System:
+- Wet pipe system untuk area normal
+- Dry pipe system untuk area freezing
+- Coverage area: 12-21 m² per sprinkler
+- Water supply: Jockey pump + main pump
+- Pressure: 1.75 bar di sprinkler terjauh
+
+Fire Hydrant:
+- Landing valve setiap lantai
+- Hose reel 30 meter per titik
+- Pressure: 3.5 bar minimum
+- Capacity: 500 LPM per hydrant box
+
+II. SISTEM ELECTRICAL
+
+1. Power Distribution
+Main Distribution Panel (MDP):
+- Incoming 20 kV, transformer 20/0.4 kV
+- Capacity sesuai load calculation
+- Power factor correction (cos φ ≥ 0.95)
+- Surge protection device (SPD)
+- Digital meter untuk monitoring
+
+Sub Distribution Panel (SDP):
+- 3 phase, 4 wire + PE system
+- MCCB protection dengan earth leakage
+- Busbar capacity 25% spare
+- IP54 protection rating minimum
+
+2. Lighting System
+Interior Lighting:
+- LED technology, efficacy ≥ 80 lm/W
+- Illumination level sesuai SNI 16-7062-2004
+- Office: 350 lux, Corridor: 100 lux
+- Emergency lighting: 3 jam backup
+- Dimming control untuk area meeting
+
+Exterior Lighting:
+- LED floodlight IP65 rating
+- Photocell control untuk auto on/off
+- Timer control untuk security lighting
+- Illumination level: 20-50 lux
+
+3. Power Outlet dan Equipment
+- Stop kontak: 16A dengan earthing
+- Dedicated circuit untuk AC dan equipment
+- UPS system untuk critical load
+- Genset capacity 100% essential load
+- Automatic Transfer Switch (ATS)
+
+4. Grounding System
+- Main earthing terminal (MET)
+- Equipotential bonding
+- Lightning protection system
+- Earth resistance < 5 ohm
+- Separate earthing untuk IT equipment
+
+III. SISTEM PLUMBING
+
+1. Water Supply System
+Cold Water:
+- Municipal water supply + ground tank
+- Booster pump system dengan pressure tank
+- Pressure: 1.5-3 bar di fixture terjauh
+- Pipe material: PPR, PVC, atau Stainless Steel
+- Backflow prevention device
+
+Hot Water:
+- Electric atau gas water heater
+- Circulation system dengan timer control
+- Temperature: 60°C di heater, 43°C di fixture
+- Insulated pipe untuk hot water
+- Mixing valve untuk safety
+
+2. Drainage System
+Waste Water:
+- Gravity system dengan proper slope
+- Pipe material: PVC, Cast Iron
+- Minimum slope: 1:100 untuk horizontal
+- Trap seal minimum 50 mm
+- Vent system untuk odor control
+
+Storm Water:
+- Roof drainage dengan overflow
+- Underground drainage system
+- Detention tank untuk peak flow
+- Pump system jika diperlukan
+- Oil separator untuk parking area
+
+3. Sanitary Fixtures
+Water Closet:
+- Dual flush system (3/6 liter)
+- Wall hung atau floor mounted
+- Soft close seat
+- Water supply: flush valve atau cistern
+
+Wash Basin:
+- Wall hung atau counter top
+- Single lever mixer tap
+- Overflow dan waste fitting
+- Mirror dengan LED lighting
+
+4. Water Treatment
+- Sand filter untuk ground water
+- Softener untuk hard water area
+- Chlorination system untuk disinfection
+- Storage tank cleaning schedule
+- Water quality testing
+
+IV. FIRE ALARM SYSTEM
+
+1. Detection System
+- Addressable fire alarm panel
+- Smoke detector: Photoelectric type
+- Heat detector untuk kitchen area
+- Manual call point setiap 45 meter
+- Beam detector untuk high ceiling
+
+2. Notification System
+- Sounder dengan visual beacon
+- Voice evacuation system
+- Public address integration
+- Battery backup 24 jam
+- Auto dial ke fire department
+
+V. BUILDING AUTOMATION SYSTEM (BAS)
+
+1. HVAC Control
+- DDC (Direct Digital Control) system
+- Temperature dan humidity monitoring
+- Schedule control untuk energy saving
+- Alarm dan fault indication
+- Remote monitoring capability
+
+2. Lighting Control
+- Occupancy sensor untuk auto control
+- Daylight harvesting system
+- Time schedule control
+- Scene control untuk different activities
+- Energy monitoring dan reporting
+
+VI. INSTALLATION STANDARDS
+
+1. Cable Management
+- Cable tray system galvanized
+- Conduit: PVC untuk embedded, EMT untuk surface
+- Cable separation: Power dan data minimum 300mm
+- Cable pulling lubricant approved
+- Proper cable support every 1.5m
+
+2. Testing dan Commissioning
+- Insulation resistance test
+- Earth continuity test
+- RCD operation test
+- Load test untuk all equipment
+- Performance verification
+- As-built drawing submission
+
+VII. MAINTENANCE REQUIREMENTS
+
+1. Preventive Maintenance
+- Monthly inspection checklist
+- Quarterly cleaning schedule
+- Annual equipment servicing
+- Filter replacement schedule
+- Calibration certificate validity
+
+2. Emergency Response
+- 24/7 emergency contact
+- Spare parts inventory list
+- Emergency generator testing
+- Fire system weekly testing
+- Water system monthly flushing

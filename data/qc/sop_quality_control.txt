@@ -1,0 +1,130 @@
+STANDAR OPERASIONAL PROSEDUR (SOP)
+QUALITY CONTROL KONSTRUKSI
+
+I. SISTEM MANAJEMEN MUTU
+
+1. Organisasi Quality Control
+- QC Manager: bertanggung jawab keseluruhan
+- QC Inspector: inspeksi harian pekerjaan
+- QC Tester: pengujian material dan hasil kerja
+- QC Administrator: dokumentasi dan laporan
+
+2. Dokumentasi Mutu
+- Quality Manual dan prosedur
+- Inspection and Test Plan (ITP)
+- Quality Control Forms dan checklist
+- Non-Conformance Report (NCR)
+
+II. INSPEKSI PEKERJAAN STRUKTUR
+
+1. Pekerjaan Pondasi
+- Survey dan setting out
+- Penggalian dan leveling
+- Pemasangan bekisting dan tulangan
+- Pengecoran dan curing beton
+- Hold Point: sebelum pengecoran
+
+2. Pekerjaan Struktur Atas
+- Fabrikasi dan erection tulangan
+- Kualitas bekisting dan alignment
+- Concrete pouring procedure
+- Compressive strength test
+- Hold Point: tulangan, bekisting, pengecoran
+
+3. Pekerjaan Baja Struktural
+- Shop drawing approval
+- Material certification review
+- Welding procedure qualification
+- Dimensional inspection
+- NDT testing untuk sambungan
+
+III. PENGUJIAN MATERIAL
+
+1. Pengujian Beton
+Frequency Testing:
+- Slump test: setiap truck mixer
+- Cube/cylinder test: 1 set per 50 m³
+- Core drilling: jika hasil test tidak memenuhi
+- Non-destructive test: rebound hammer
+
+Acceptance Criteria:
+- Individual test ≥ 0.85 x fck
+- Average 4 consecutive tests ≥ fck + 4 MPa
+- No single test < fck - 4 MPa
+
+2. Pengujian Baja Tulangan
+- Tensile test: 2 samples per size per 10 ton
+- Bend test: 2 samples per size per 10 ton
+- Chemical analysis: 1 per heat number
+- Visual inspection: 100% untuk crack, rust
+
+3. Pengujian Agregat
+- Gradasi: setiap 200 ton atau source change
+- Specific gravity dan absorption
+- Los Angeles abrasion test
+- Alkali-silica reactivity test
+
+IV. INSPEKSI PEKERJAAN FINISHING
+
+1. Pekerjaan Dinding
+- Verticality check dengan waterpass
+- Surface flatness ± 3 mm per 2 m
+- Mortar joint consistency
+- Crack inspection dan repair
+
+2. Pekerjaan Lantai
+- Level accuracy ± 3 mm per 3 m
+- Surface hardness test
+- Water absorption test untuk keramik
+- Joint alignment dan grouting quality
+
+3. Pekerjaan Cat
+- Surface preparation standard
+- Primer application dan coverage
+- Finish coat thickness measurement
+- Color matching approval
+- Defect inspection: chalking, peeling, cracking
+
+V. NON-CONFORMANCE MANAGEMENT
+
+1. NCR Process
+- Identification dan documentation
+- Root cause analysis
+- Corrective action plan
+- Implementation dan verification
+- Closure approval
+
+2. Rework Procedure
+- Work suspension notice
+- Rework method statement
+- Re-inspection protocol
+- Additional testing requirements
+- Cost impact assessment
+
+VI. QUALITY ASSURANCE AUDIT
+
+1. Internal Audit
+- Monthly QC system audit
+- Random work inspection
+- Documentation review
+- Training needs assessment
+
+2. Third Party Inspection
+- Independent quality auditor
+- Client representative inspection
+- Regulatory body inspection
+- International standard compliance
+
+VII. QUALITY METRICS DAN KPI
+
+1. Quality Performance Indicators
+- First Time Right Rate > 90%
+- Rework Cost < 3% of project value
+- NCR Close-out Time < 7 days
+- Customer Satisfaction Score > 8/10
+
+2. Quality Reporting
+- Daily QC inspection report
+- Weekly quality dashboard
+- Monthly quality metrics
+- Project quality summary report

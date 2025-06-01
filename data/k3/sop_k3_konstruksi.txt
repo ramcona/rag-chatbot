@@ -1,0 +1,88 @@
+STANDAR OPERASIONAL PROSEDUR (SOP)
+KESELAMATAN DAN KESEHATAN KERJA (K3) KONSTRUKSI
+
+1. TUJUAN
+Memastikan keselamatan dan kesehatan semua pekerja di lokasi konstruksi sesuai dengan peraturan pemerintah dan standar internasional.
+
+2. RUANG LINGKUP
+SOP ini berlaku untuk semua aktivitas konstruksi termasuk:
+- Pekerjaan struktur (pondasi, kolom, balok)
+- Pekerjaan finishing (plester, cat, keramik)
+- Pekerjaan MEP (listrik, plumbing, AC)
+- Pekerjaan landscaping
+
+3. PROSEDUR UMUM K3
+
+3.1 SEBELUM MEMULAI KERJA
+- Safety briefing wajib setiap pagi
+- Pemeriksaan kondisi alat kerja
+- Penggunaan APD (Alat Pelindung Diri) lengkap
+- Pengecekan kondisi cuaca
+- Koordinasi dengan safety officer
+
+3.2 ALAT PELINDUNG DIRI (APD) WAJIB
+- Safety helmet (helm keselamatan)
+- Safety shoes (sepatu keselamatan)
+- Safety vest (rompi keselamatan)
+- Safety harness untuk kerja di ketinggian >1.8m
+- Sarung tangan kerja
+- Kacamata pelindung untuk pekerjaan grinding/cutting
+
+4. PROSEDUR KHUSUS PEKERJAAN KETINGGIAN
+
+4.1 PERSIAPAN
+- Pemasangan scaffolding sesuai standar
+- Pemeriksaan kondisi scaffolding oleh safety officer
+- Pemasangan safety line
+- Training khusus untuk pekerja
+
+4.2 PELAKSANAAN
+- Wajib menggunakan safety harness
+- Maximum 2 orang per platform scaffolding
+- Tidak boleh kerja saat hujan atau angin kencang
+- Selalu ada pengawas di bawah
+
+5. PROSEDUR PENANGANAN MATERIAL BERAT
+
+5.1 CRANE OPERATION
+- Operator harus bersertifikat
+- Daily inspection crane sebelum digunakan
+- Signal man wajib hadir
+- Area kerja crane diberi barrier
+- Load chart harus selalu tersedia
+
+5.2 MANUAL HANDLING
+- Maximum beban angkat 23kg per orang
+- Teknik angkat yang benar
+- Kerja tim untuk material berat
+- Gunakan alat bantu jika diperlukan
+
+6. EMERGENCY PROCEDURE
+
+6.1 KECELAKAAN KERJA
+- Stop work immediately
+- Secure area
+- Pertolongan pertama
+- Hubungi medis jika diperlukan
+- Laporan incident dalam 24 jam
+
+6.2 KEBAKARAN
+- Alarm kebakaran
+- Evacuasi sesuai jalur yang telah ditentukan
+- Gunakan APAR jika memungkinkan
+- Hubungi pemadam kebakaran
+
+7. SANKSI PELANGGARAN
+- Peringatan lisan: pelanggaran ringan
+- Peringatan tertulis: pelanggaran sedang
+- Skorsing: pelanggaran berat
+- PHK: pelanggaran fatal/berulang
+
+8. PELAPORAN
+- Daily safety report
+- Weekly safety meeting
+- Monthly accident statistics
+- Investigation report untuk setiap incident
+
+Dokumen ini harus dipahami dan ditaati oleh seluruh pekerja konstruksi.
+Update terakhir: 2024

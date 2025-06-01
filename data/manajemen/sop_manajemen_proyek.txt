@@ -1,0 +1,80 @@
+STANDAR OPERASIONAL PROSEDUR (SOP)
+MANAJEMEN PROYEK KONSTRUKSI
+
+I. PERENCANAAN PROYEK
+
+1. Identifikasi Kebutuhan Proyek
+- Analisis kebutuhan stakeholder
+- Definisi ruang lingkup pekerjaan
+- Penetapan tujuan dan sasaran proyek
+- Identifikasi risiko awal
+
+2. Perencanaan Jadwal
+- Pembuatan Work Breakdown Structure (WBS)
+- Penentuan durasi aktivitas
+- Identifikasi jalur kritis (Critical Path Method)
+- Pembuatan baseline schedule
+- Alokasi sumber daya manusia dan material
+
+3. Perencanaan Anggaran
+- Estimasi biaya per aktivitas
+- Pembuatan cash flow proyeksi
+- Penetapan contingency budget (5-10%)
+- Approval budget dari stakeholder
+
+II. PELAKSANAAN PROYEK
+
+1. Mobilisasi Tim dan Sumber Daya
+- Orientasi tim proyek
+- Setup kantor lapangan
+- Mobilisasi peralatan konstruksi
+- Koordinasi dengan subkontraktor
+
+2. Monitoring dan Controlling
+- Laporan harian kemajuan pekerjaan
+- Progress measurement (Earned Value Analysis)
+- Quality control inspection
+- Safety monitoring
+- Change order management
+
+3. Komunikasi Stakeholder
+- Meeting koordinasi mingguan
+- Progress report bulanan
+- Komunikasi dengan owner/client
+- Dokumentasi keputusan proyek
+
+III. PENGENDALIAN RISIKO
+
+1. Risk Register Management
+- Identifikasi risiko baru
+- Assessment probabilitas dan dampak
+- Mitigation plan
+- Risk monitoring
+
+2. Issue Management
+- Log permasalahan harian
+- Escalation procedure
+- Resolution tracking
+- Lesson learned documentation
+
+IV. PENUTUPAN PROYEK
+
+1. Handover Process
+- Final inspection bersama client
+- Penyerahan dokumen as-built
+- Training operasional fasilitas
+- Warranty period management
+
+2. Project Closure
+- Final report proyek
+- Financial closure
+- Team performance evaluation
+- Archive dokumen proyek
+
+V. KEY PERFORMANCE INDICATORS (KPI)
+
+1. Schedule Performance Index (SPI) ≥ 0.95
+2. Cost Performance Index (CPI) ≥ 0.95
+3. Quality metrics (rework < 5%)
+4. Safety metrics (zero accident target)
+5. Client satisfaction score ≥ 8/10

@@ -1,0 +1,230 @@
+SPESIFIKASI ALAT BERAT KONSTRUKSI
+
+I. ALAT BERAT PENGGALIAN
+
+1. Excavator
+Hydraulic Excavator 20-25 Ton:
+- Engine Power: 110-130 HP
+- Bucket Capacity: 1.0-1.2 m³
+- Operating Weight: 20,000-25,000 kg
+- Digging Depth: 6.5-7.0 m
+- Digging Reach: 9.5-10.0 m
+- Swing Speed: 11-13 RPM
+- Travel Speed: 4.5-5.5 km/h
+- Fuel Tank: 300-400 L
+- Hydraulic System: Load sensing
+
+Mini Excavator 5-8 Ton:
+- Engine Power: 35-55 HP
+- Bucket Capacity: 0.25-0.35 m³
+- Operating Weight: 5,000-8,000 kg
+- Digging Depth: 3.5-4.5 m
+- Zero tail swing untuk area sempit
+- Rubber track untuk permukaan halus
+
+2. Wheel Loader
+Medium Wheel Loader:
+- Engine Power: 150-200 HP
+- Bucket Capacity: 2.5-3.5 m³
+- Operating Weight: 12,000-16,000 kg
+- Breakout Force: 110-150 kN
+- Dump Height: 2.8-3.2 m
+- Travel Speed: 40-45 km/h
+- Fuel Tank: 200-300 L
+- Tire Size: 20.5-25 atau 23.5-25
+
+3. Bulldozer
+Medium Bulldozer:
+- Engine Power: 130-180 HP
+- Operating Weight: 15,000-22,000 kg
+- Blade Capacity: 3.5-5.0 m³
+- Ground Pressure: 55-75 kPa
+- Travel Speed: 10-12 km/h forward
+- Drawbar Pull: 140-200 kN
+- Track Width: 560-610 mm
+- Blade Type: Straight, Semi-U, U
+
+II. ALAT ANGKUT MATERIAL
+
+1. Dump Truck
+Rigid Dump Truck:
+- Payload Capacity: 25-40 ton
+- Engine Power: 300-450 HP
+- Body Volume: 15-25 m³
+- GVW: 35,000-55,000 kg
+- Travel Speed: 65-85 km/h
+- Fuel Tank: 300-500 L
+- Tire Size: 18.00R33 atau 24.00R35
+- Hydraulic Body Lift
+
+Articulated Dump Truck (ADT):
+- Payload: 25-35 ton
+- All-wheel drive (6x6)
+- Articulated steering
+- Superior traction pada terrain sulit
+- Water cooling system untuk engine
+
+2. Truck Mixer
+Ready Mix Concrete Truck:
+- Mixer Capacity: 7-12 m³
+- Chassis: 6x4 atau 8x4
+- Engine Power: 300-400 HP
+- Drum Rotation: 0-14 RPM
+- Water Tank: 600-800 L
+- Discharge Height: 1.2-4.1 m
+- Chute Extension: 1.2-5.5 m
+
+3. Truck Crane
+Mobile Crane:
+- Lifting Capacity: 25-100 ton
+- Boom Length: 31-60 m
+- Max Lifting Height: 56-92 m
+- Engine Power: 230-400 HP
+- Travel Speed: 80-85 km/h
+- Outrigger Spread: 6.2-8.4 m
+- Load Block: 5-10 ton
+
+III. ALAT PEMADATAN
+
+1. Compactor
+Vibratory Roller:
+- Operating Weight: 8-15 ton
+- Drum Width: 1.7-2.1 m
+- Vibration Frequency: 28-35 Hz
+- Amplitude: 1.5-2.0 mm
+- Travel Speed: 0-12 km/h
+- Gradeability: 30-40%
+- Ground Pressure: 25-40 kg/cm²
+
+Pneumatic Tire Roller:
+- Operating Weight: 8-27 ton
+- Number of Wheels: 9-11 (front), 8-10 (rear)
+- Tire Size: 11.00-20 hingga 26.5-25
+- Tire Pressure: 200-700 kPa
+- Contact Pressure: 350-700 kPa
+- Travel Speed: 3-25 km/h
+
+2. Plate Compactor
+Heavy Duty Plate Compactor:
+- Engine Power: 5-13 HP
+- Plate Size: 50x60 cm hingga 90x70 cm
+- Operating Weight: 100-700 kg
+- Compaction Force: 15-100 kN
+- Frequency: 80-100 Hz
+- Travel Speed: 20-30 m/min
+
+IV. ALAT PENGECORAN BETON
+
+1. Concrete Pump
+Boom Pump:
+- Concrete Output: 90-180 m³/h
+- Max Pumping Distance: 300-1000 m
+- Max Pumping Height: 200-600 m
+- Boom Reach: 28-63 m
+- Pressure: 60-85 bar
+- Aggregate Max Size: 40 mm
+
+Line Pump (Trailer Pump):
+- Output: 30-120 m³/h
+- Max Distance: 200-800 m
+- Max Height: 100-300 m
+- Pressure: 40-120 bar
+- Portability untuk area terbatas
+
+2. Concrete Mixer
+Transit Mixer:
+- Mixing Capacity: 6-12 m³
+- Drum Speed: 2-12 RPM
+- Mixing Time: 70-90 detik per m³
+- Slump Retention: 90-120 menit
+- Water Addition System
+- Automatic Slump Control
+
+V. ALAT KHUSUS
+
+1. Piling Equipment
+Hydraulic Piling Rig:
+- Max Torque: 150-400 kNm
+- Max Crowd Force: 200-400 kN
+- Max Pullout Force: 300-600 kN
+- Drilling Diameter: 600-1500 mm
+- Max Drilling Depth: 60-80 m
+- Kelly Bar Length: 6-15 m
+
+Bored Pile Machine:
+- Engine Power: 200-400 HP
+- Max Drilling Diameter: 1.0-3.0 m
+- Max Drilling Depth: 80-120 m
+- Rotary Torque: 100-500 kNm
+- Kelly Bar: Telescopic type
+
+2. Tower Crane
+Self-Erecting Tower Crane:
+- Max Load: 4-16 ton
+- Jib Length: 30-75 m
+- Max Height: 40-80 m
+- Tip Load: 1.0-2.5 ton
+- Slewing Speed: 0.6-1.2 RPM
+- Hoisting Speed: 40-120 m/min
+
+VI. SPESIFIKASI TEKNIS UMUM
+
+1. Engine Requirements
+- Emission Standard: EURO III minimum
+- Fuel Type: Solar/Diesel
+- Cooling System: Water cooled
+- Air Filter: Dry type dengan pre-cleaner
+- Oil Change Interval: 250-500 jam
+- Fuel Consumption sesuai standar
+
+2. Hydraulic System
+- System Type: Load sensing
+- Pump Type: Variable displacement
+- Working Pressure: 250-350 bar
+- Filtration: 10-25 micron
+- Oil Temperature: -20°C hingga +80°C
+- Quick Coupler untuk attachment
+
+3. Operator Cab
+- ROPS/FOPS certified cab
+- Air conditioning system
+- Ergonomic seat dengan suspension
+- Low noise level < 80 dB(A)
+- Visibility sesuai standar ISO 5006
+- Instrumentation panel lengkap
+
+VII. MAINTENANCE DAN SERVICE
+
+1. Preventive Maintenance
+- Daily check: Oli, air, bahan bakar
+- 50 jam: Greasing dan basic check
+- 250 jam: Engine oil dan filter change
+- 500 jam: Hydraulic oil dan filter
+- 1000 jam: Major service
+- 2000 jam: Engine overhaul
+
+2. Service Support
+- Authorized dealer network
+- Genuine spare parts availability
+- Technical training untuk operator
+- Emergency service 24/7
+- Warranty period minimum 1 tahun
+- Service manual dalam bahasa Indonesia
+
+VIII. SAFETY FEATURES
+
+1. Standard Safety Equipment
+- ROPS (Roll Over Protective Structure)
+- FOPS (Falling Object Protective Structure)
+- Seat belt dan emergency stop
+- Warning lights dan alarm
+- Fire extinguisher
+- First aid kit
+
+2. Operational Safety
+- Load moment indicator (untuk crane)
+- Overload protection system
+- Auto-leveling system (untuk concrete pump)
+- Backup alarm dan rotating beacon
+- Non-slip steps dan handrails
+- Emergency escape routes

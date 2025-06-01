@@ -1,0 +1,84 @@
+SPESIFIKASI MATERIAL KONSTRUKSI
+
+I. MATERIAL STRUKTUR
+
+1. Beton Readymix
+- Mutu K-225: fc' = 18.75 MPa, untuk struktur non-struktural
+- Mutu K-300: fc' = 25 MPa, untuk balok dan plat lantai
+- Mutu K-350: fc' = 29.17 MPa, untuk kolom dan pondasi
+- Slump: 12 ± 2 cm
+- Agregat maksimum: 20 mm
+- Sertifikat: SNI 2847:2019
+
+2. Baja Tulangan
+- Ulir BJTS 420: fy = 420 MPa (D13-D32)
+- Polos BJTP 240: fy = 240 MPa (D6-D12)
+- Elongasi minimum: 12%
+- Sertifikat: SNI 2052:2017
+
+3. Baja Struktural
+- Profil WF: BJ 37 (fy = 240 MPa)
+- Profil H-Beam: BJ 50 (fy = 290 MPa)
+- Plat baja: SS400 (fy = 245 MPa)
+- Sertifikat: SNI 1729:2020
+
+II. MATERIAL ARSITEKTUR
+
+1. Bata Merah
+- Kuat tekan minimum: 5 MPa
+- Penyerapan air maksimum: 15%
+- Dimensi: 230 x 110 x 52 mm
+- Toleransi: ± 3 mm
+
+2. Keramik Lantai
+- Kelas keausan: PEI IV untuk area komersial
+- Slip resistance: R9 minimum
+- Water absorption: ≤ 3%
+- Ukuran: 60x60 cm, 80x80 cm
+
+3. Cat Tembok
+- Cat dasar alkali sealer
+- Cat finish acrylic emulsion
+- VOC content: ≤ 50 g/L
+- Coverage: 12-14 m²/L per coat
+- Sertifikat: SNI 8011:2019
+
+III. MATERIAL MEP (Mechanical, Electrical, Plumbing)
+
+1. Pipa Air Bersih
+- PVC SNI: tekanan kerja 10 bar
+- PPR: tekanan kerja 16-25 bar
+- Galvanis: Schedule 40
+- Fitting brass/stainless steel
+
+2. Kabel Listrik
+- NYA: 450/750V (instalasi dalam conduit)
+- NYM: 450/750V (instalasi permukaan)
+- NYY: 0.6/1kV (kabel tanah)
+- Standar: SNI 04-6629.2-2006
+
+3. Pipa Limbah
+- PVC limbah Ø 75-300 mm
+- Cast iron untuk stack utama
+- Slope minimum 1:100
+- Aksesoris: cleanout, vent
+
+IV. TESTING DAN QUALITY CONTROL
+
+1. Concrete Test
+- Slump test setiap truck mixer
+- Cylinder test 7, 14, 28 hari
+- Core drill untuk existing structure
+- NDT: rebound hammer, UPV
+
+2. Steel Test
+- Tensile test certificate
+- Chemical composition analysis
+- Welding procedure qualification
+- RT/UT untuk sambungan kritis
+
+3. Material Certification
+- Certificate of conformity
+- Test report dari manufacturer
+- Third party inspection report
+- Material traceability record

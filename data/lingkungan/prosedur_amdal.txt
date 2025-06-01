@@ -1,0 +1,370 @@
+PROSEDUR AMDAL DAN PENGELOLAAN LINGKUNGAN
+
+I. DASAR HUKUM DAN REGULASI
+
+1. Peraturan Utama
+- UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup
+- PP No. 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup
+- Permen LHK No. 4 Tahun 2021 tentang Daftar Usaha dan/atau Kegiatan Wajib Amdal
+- Permen LHK No. 5 Tahun 2021 tentang Tata Cara dan Persyaratan UKL-UPL
+
+2. Klasifikasi Dokumen Lingkungan
+- AMDAL: Analisis Mengenai Dampak Lingkungan
+- UKL-UPL: Upaya Pengelolaan dan Pemantauan Lingkungan
+- SPPL: Surat Pernyataan Pengelolaan Lingkungan
+- DELH: Dokumen Evaluasi Lingkungan Hidup
+
+II. PROSEDUR PENYUSUNAN AMDAL
+
+1. Tahap Pelingkupan (Scoping)
+Kerangka Acuan (KA-ANDAL):
+- Identifikasi dampak penting hipotetis
+- Batas wilayah studi dan waktu kajian
+- Metodologi pengumpulan dan analisis data
+- Konsultasi publik tahap pertama
+- Evaluasi dan persetujuan KA-ANDAL oleh komisi
+
+2. Tahap Penyusunan ANDAL
+Analisis Dampak Lingkungan (ANDAL):
+- Survei baseline environment
+- Prediksi dampak lingkungan
+- Evaluasi dampak penting
+- Rekomendasi pengelolaan lingkungan
+- Konsultasi publik tahap kedua
+
+3. Tahap Penyusunan RKL-RPL
+Rencana Pengelolaan Lingkungan (RKL):
+- Pengelolaan dampak penting
+- Pendekatan teknologi pengelolaan
+- Lokasi pengelolaan
+- Periode dan durasi pengelolaan
+- Institusi pengelola
+
+Rencana Pemantauan Lingkungan (RPL):
+- Parameter pemantauan
+- Metode pemantauan
+- Lokasi dan frekuensi pemantauan
+- Institusi pemantau
+- Waktu dan durasi pemantauan
+
+III. ASPEK LINGKUNGAN YANG DIKAJI
+
+1. Komponen Fisik-Kimia
+Kualitas Udara:
+- Parameter: PM10, PM2.5, SO2, NO2, CO, O3
+- Lokasi sampling: Upwind dan downwind
+- Frekuensi: Bulanan selama konstruksi
+- Baku mutu: PP No. 22 Tahun 2021
+
+Kebisingan dan Getaran:
+- Parameter: Tingkat kebisingan (dB), getaran (mm/detik)
+- Waktu pengukuran: Siang dan malam
+- Lokasi: Batas proyek dan pemukiman terdekat
+- Baku mutu: Keputusan Menteri LH
+
+Kualitas Air:
+- Parameter fisik: TDS, TSS, kekeruhan, suhu
+- Parameter kimia: pH, DO, BOD, COD, minyak lemak
+- Parameter biologi: E.coli, coliform total
+- Frekuensi: Bulanan untuk air permukaan
+
+2. Komponen Biologi
+Flora:
+- Inventarisasi jenis dan kelimpahan
+- Identifikasi species endemik dan langka
+- Indeks keanekaragaman (Shannon-Wiener)
+- Pemetaan vegetasi dengan GIS
+
+Fauna:
+- Mamalia, burung, reptil, amfibi
+- Survey direct dan indirect method
+- Identifikasi species dilindungi
+- Analisis habitat dan corridor
+
+3. Komponen Sosial-Ekonomi-Budaya
+Demografi:
+- Jumlah dan kepadatan penduduk
+- Struktur umur dan jenis kelamin
+- Tingkat pendidikan dan pekerjaan
+- Proyeksi pertumbuhan penduduk
+
+Ekonomi:
+- Mata pencaharian utama
+- Tingkat pendapatan keluarga
+- Kesempatan kerja dan usaha
+- Harga tanah dan properti
+
+IV. DAMPAK LINGKUNGAN KONSTRUKSI
+
+1. Dampak Tahap Konstruksi
+Kualitas Udara:
+- Peningkatan debu dari aktivitas tanah
+- Emisi gas buang alat berat
+- Debu material konstruksi
+- Mitigasi: Penyiraman, penutupan material
+
+Kebisingan:
+- Operasional alat berat
+- Aktivitas konstruksi
+- Transportasi material
+- Mitigasi: Jadwal kerja, sound barrier
+
+Kualitas Air:
+- Run-off dari area konstruksi
+- Pencemaran oli dan bahan kimia
+- Sedimentasi badan air
+- Mitigasi: Settling pond, oil trap
+
+2. Dampak Tahap Operasi
+Lalu Lintas:
+- Peningkatan volume kendaraan
+- Kemacetan dan emisi
+- Kecelakaan lalu lintas
+- Mitigasi: Traffic management plan
+
+Infrastruktur:
+- Beban pada utilitas publik
+- Kebutuhan air bersih meningkat
+- Sistem drainase dan limbah
+- Mitigasi: Koordinasi dengan dinas terkait
+
+V. METODE PEMANTAUAN LINGKUNGAN
+
+1. Pemantauan Kualitas Udara
+Metode Sampling:
+- High Volume Air Sampler (HVAS) untuk PM10
+- Beta Attenuation Monitor untuk PM2.5
+- Spektrofotometer untuk gas pencemar
+- Continuous monitoring untuk proyek besar
+
+Lokasi Pemantauan:
+- Upwind: 500-1000 m dari sumber
+- Downwind: 500-1000 m dari sumber
+- Lokasi sensitif: Sekolah, rumah sakit, pemukiman
+- Frekuensi: Setiap 6 bulan minimal
+
+2. Pemantauan Kualitas Air
+Metode Sampling:
+- Grab sampling untuk parameter fisik-kimia
+- Composite sampling untuk parameter organik
+- In-situ measurement untuk pH, DO, suhu
+- Preservasi sampel sesuai standar
+
+Parameter Wajib:
+- Fisik: TDS, TSS, kekeruhan, warna, bau
+- Kimia: pH, DO, BOD5, COD, NH3-N, NO3-N
+- Biologi: Coliform total, E.coli
+- Logam berat: Pb, Cd, Hg, Cr, Cu, Zn
+
+3. Pemantauan Kebisingan
+Alat Ukur:
+- Sound Level Meter kelas 1
+- Kalibrasi sebelum dan sesudah pengukuran
+- Weather station untuk kondisi cuaca
+- GPS untuk koordinat lokasi
+
+Prosedur Pengukuran:
+- Durasi minimum 10 menit per titik
+- Interval pencatatan 1 detik
+- Koreksi background noise
+- Perhitungan Leq, L10, L50, L90
+
+VI. PENGELOLAAN LIMBAH KONSTRUKSI
+
+1. Limbah Padat
+Klasifikasi Limbah:
+- Limbah B3: Oli bekas, aki, cat, solvent
+- Limbah non-B3: Beton, kayu, plastik, logam
+- Limbah organik: Sisa makanan, daun
+- Limbah medis: P3K, kesehatan pekerja
+
+Pengelolaan:
+- Reduce: Optimasi penggunaan material
+- Reuse: Penggunaan kembali material
+- Recycle: Daur ulang material
+- Recovery: Pemanfaatan energi
+- Disposal: Pembuangan akhir ke TPA
+
+2. Limbah Cair
+Sumber Limbah:
+- Air cucian alat dan kendaraan
+- Air hujan dari area konstruksi
+- Limbah domestik dari pekerja
+- Limbah cair B3 (oli, chemical)
+
+Sistem Pengolahan:
+- Oil-water separator untuk limbah oli
+- Settling pond untuk suspended solid
+- IPAL komunal untuk limbah domestik
+- Kolam retensi untuk storm water
+
+VII. KONSULTASI PUBLIK
+
+1. Tahap Persiapan
+Identifikasi Stakeholder:
+- Masyarakat terdampak langsung
+- Tokoh masyarakat dan adat
+- LSM lingkungan
+- Akademisi dan peneliti
+- Pemerintah daerah
+
+Metode Konsultasi:
+- Rapat umum (town hall meeting)
+- Focus Group Discussion (FGD)
+- Wawancara mendalam
+- Survei pendapat masyarakat
+- Media sosial dan website
+
+2. Tahap Pelaksanaan
+Materi Konsultasi:
+- Rencana kegiatan dan dampaknya
+- Alternatif pengelolaan lingkungan
+- Mekanisme pengaduan masyarakat
+- Kompensasi dan mitigasi
+- Monitoring dan evaluasi
+
+Dokumentasi:
+- Daftar hadir peserta
+- Foto dan video kegiatan
+- Notulen rapat dan diskusi
+- Tanggapan dan saran masyarakat
+- Tindak lanjut komitmen
+
+VIII. IMPLEMENTASI RKL-RPL
+
+1. Organisasi Pelaksana
+Tim Pengelola Lingkungan:
+- Environmental Manager
+- Environmental Officer
+- Site Supervisor
+- Laboratory Coordinator
+- Community Liaison Officer
+
+Tugas dan Tanggung Jawab:
+- Implementasi rencana pengelolaan
+- Koordinasi dengan stakeholder
+- Monitoring parameter lingkungan
+- Pelaporan dan evaluasi
+- Penanganan keluhan masyarakat
+
+2. Sistem Pelaporan
+Laporan Berkala:
+- Laporan bulanan: Progress implementasi
+- Laporan triwulan: Hasil monitoring
+- Laporan semester: Evaluasi kinerja
+- Laporan tahunan: Komprehensif
+
+Penyampaian Laporan:
+- Kementerian Lingkungan Hidup
+- Dinas Lingkungan Hidup Daerah
+- Instansi pemberi izin
+- Masyarakat (public disclosure)
+
+IX. AUDIT LINGKUNGAN
+
+1. Audit Internal
+Frekuensi: Setiap 6 bulan
+Cakupan:
+- Kepatuhan terhadap RKL-RPL
+- Efektivitas pengelolaan lingkungan
+- Kinerja pemantauan
+- Sistem manajemen lingkungan
+
+2. Audit Eksternal
+Auditor Independen:
+- Lembaga sertifikasi terakreditasi
+- Konsultan lingkungan bersertifikat
+- Universitas dengan kompetensi
+- Lembaga penelitian
+
+Hasil Audit:
+- Temuan ketidaksesuaian
+- Rekomendasi perbaikan
+- Rencana tindak lanjut
+- Sertifikat kepatuhan
+
+X. SANKSI DAN PENEGAKAN HUKUM
+
+1. Jenis Sanksi
+Sanksi Administrasi:
+- Teguran tertulis
+- Paksaan pemerintah
+- Pembekuan izin lingkungan
+- Pencabutan izin lingkungan
+
+Sanksi Pidana:
+- Denda administratif
+- Kurungan maksimal 3 tahun
+- Denda maksimal Rp 3 miliar
+- Ganti rugi kerusakan lingkungan
+
+2. Prosedur Penegakan
+- Pengawasan dan inspeksi rutin
+- Investigasi pelanggaran
+- Penyidikan dan penuntutan
+- Pemulihan kerusakan lingkungan
+- Kompensasi masyarakat
+
+XI. TEKNOLOGI RAMAH LINGKUNGAN
+
+1. Green Construction Practices
+Material Ramah Lingkungan:
+- Beton daur ulang (recycled concrete)
+- Baja daur ulang dengan kandungan minimum 25%
+- Kayu bersertifikat FSC
+- Cat low VOC dan water-based
+- Isolasi dari material daur ulang
+
+Teknologi Hemat Energi:
+- LED lighting system
+- Solar panel untuk auxiliary power
+- Energy-efficient equipment
+- Building automation system
+- Green roof dan wall system
+
+2. Water Conservation
+Sistem Konservasi Air:
+- Rainwater harvesting system
+- Greywater recycling
+- Low-flow fixtures
+- Smart irrigation system
+- Permeable pavement
+
+Storm Water Management:
+- Bioretention area
+- Constructed wetland
+- Infiltration basin
+- Green infrastructure
+- LID (Low Impact Development)
+
+XII. MONITORING DAN EVALUASI
+
+1. Key Performance Indicators (KPI)
+Environmental KPI:
+- Compliance rate ≥ 95%
+- Waste diversion rate ≥ 70%
+- Water consumption reduction 20%
+- Energy consumption reduction 15%
+- Zero major environmental incident
+
+Social KPI:
+- Community satisfaction ≥ 80%
+- Local employment rate ≥ 60%
+- Zero major social conflict
+- Grievance response time ≤ 7 days
+- Training participation rate ≥ 90%
+
+2. Adaptive Management
+Sistem Evaluasi:
+- Quarterly performance review
+- Annual management review
+- Stakeholder feedback session
+- Independent audit findings
+- Continuous improvement process
+
+Penyesuaian Program:
+- Update RKL-RPL berdasarkan hasil monitoring
+- Revisi prosedur operasional
+- Peningkatan kapasitas SDM
+- Upgrade teknologi pengelolaan
+- Perbaikan sistem komunikasi

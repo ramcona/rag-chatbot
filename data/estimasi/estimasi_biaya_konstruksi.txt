@@ -1,0 +1,140 @@
+PANDUAN ESTIMASI BIAYA KONSTRUKSI
+UNTUK KONTRAKTOR
+
+1. KOMPONEN BIAYA KONSTRUKSI
+
+1.1 BIAYA LANGSUNG (70-80% dari total)
+A. Material
+- Semen: Rp 65,000 per sak (50kg)
+- Besi beton: Rp 14,500 per kg
+- Pasir: Rp 350,000 per m3
+- Batu split: Rp 400,000 per m3
+- Bata merah: Rp 650 per buah
+- Batako: Rp 3,500 per buah
+- Keramik lantai: Rp 45,000-150,000 per m2
+- Cat tembok: Rp 85,000 per 25kg
+
+B. Tenaga Kerja
+- Mandor: Rp 200,000 per hari
+- Tukang batu: Rp 180,000 per hari
+- Tukang kayu: Rp 185,000 per hari
+- Tukang besi: Rp 175,000 per hari
+- Tukang cat: Rp 170,000 per hari
+- Tukang keramik: Rp 165,000 per hari
+- Pekerja: Rp 150,000 per hari
+
+1.2 BIAYA TIDAK LANGSUNG (20-30% dari total)
+- Overhead: 10-15%
+- Profit: 10-20%
+- Pajak: 11%
+- Asuransi: 1-2%
+- Perizinan: 2-3%
+
+2. ESTIMASI PER JENIS PEKERJAAN
+
+2.1 PEKERJAAN STRUKTUR
+A. Pondasi Batu Kali
+- Material: Rp 450,000 per m3
+- Tenaga: Rp 200,000 per m3
+- Total: Rp 650,000 per m3
+
+B. Kolom Beton K-225
+- Material: Rp 850,000 per m3
+- Tenaga: Rp 300,000 per m3
+- Total: Rp 1,150,000 per m3
+
+C. Balok Beton K-225
+- Material: Rp 900,000 per m3
+- Tenaga: Rp 350,000 per m3
+- Total: Rp 1,250,000 per m3
+
+D. Plat Lantai Beton K-225
+- Material: Rp 750,000 per m3
+- Tenaga: Rp 250,000 per m3
+- Total: Rp 1,000,000 per m3
+
+2.2 PEKERJAAN DINDING
+A. Pasang Bata Merah + Plester
+- Material: Rp 95,000 per m2
+- Tenaga: Rp 45,000 per m2
+- Total: Rp 140,000 per m2
+
+B. Pasang Batako + Plester
+- Material: Rp 85,000 per m2
+- Tenaga: Rp 40,000 per m2
+- Total: Rp 125,000 per m2
+
+2.3 PEKERJAAN FINISHING
+A. Keramik Lantai 40x40
+- Material: Rp 55,000 per m2
+- Tenaga: Rp 35,000 per m2
+- Total: Rp 90,000 per m2
+
+B. Cat Tembok Interior
+- Material: Rp 15,000 per m2
+- Tenaga: Rp 12,000 per m2
+- Total: Rp 27,000 per m2
+
+C. Cat Tembok Eksterior
+- Material: Rp 18,000 per m2
+- Tenaga: Rp 15,000 per m2
+- Total: Rp 33,000 per m2
+
+3. ESTIMASI BIAYA BANGUNAN RUMAH
+
+3.1 RUMAH SEDERHANA (Type 36)
+- Biaya per m2: Rp 3,500,000 - 4,000,000
+- Total biaya: Rp 126,000,000 - 144,000,000
+
+3.2 RUMAH MENENGAH (Type 60)
+- Biaya per m2: Rp 4,500,000 - 5,500,000
+- Total biaya: Rp 270,000,000 - 330,000,000
+
+3.3 RUMAH MEWAH (Type 120+)
+- Biaya per m2: Rp 6,000,000 - 12,000,000
+- Total biaya: Rp 720,000,000 - 1,440,000,000
+
+4. FAKTOR PENYESUAIAN HARGA
+
+4.1 LOKASI
+- Kota besar: +20-30%
+- Kota menengah: 0% (baseline)
+- Daerah terpencil: +30-50%
+
+4.2 AKSES LOKASI
+- Mudah dijangkau: 0%
+- Akses sulit: +10-15%
+- Perlu crane khusus: +15-25%
+
+4.3 KONDISI TANAH
+- Tanah keras: 0%
+- Tanah lembek: +10-20%
+- Perlu tiang pancang: +25-40%
+
+5. TIPS ESTIMASI YANG AKURAT
+
+5.1 SURVEY LAPANGAN
+- Ukur lokasi dengan detail
+- Cek kondisi tanah
+- Evaluasi akses material
+- Pertimbangkan cuaca
+
+5.2 HARGA MATERIAL
+- Update harga mingguan
+- Buat daftar supplier terpercaya
+- Negosiasi harga untuk volume besar
+- Pertimbangkan fluktuasi harga
+
+5.3 CONTINGENCY
+- Tambahkan 5-10% untuk imprevisto
+- Cadangan untuk perubahan desain
+- Buffer untuk kenaikan harga material
+
+6. SOFTWARE ESTIMASI YANG DIREKOMENDASIKAN
+- Microsoft Excel dengan template
+- ArchiCAD untuk quantity take-off
+- AutoCAD dengan add-on estimasi
+- Software khusus seperti Exact atau WinEst
+
+Catatan: Harga dapat berubah sewaktu-waktu tergantung kondisi pasar.
+Update harga: Januari 2024

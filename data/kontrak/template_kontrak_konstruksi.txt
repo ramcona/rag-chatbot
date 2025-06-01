@@ -1,0 +1,187 @@
+TEMPLATE KONTRAK KONSTRUKSI
+
+I. INFORMASI DASAR KONTRAK
+
+1. Para Pihak
+PIHAK PERTAMA (Pengguna Jasa):
+- Nama: [Nama Perusahaan/Instansi]
+- Alamat: [Alamat Lengkap]
+- NPWP: [Nomor NPWP]
+- Diwakili oleh: [Nama dan Jabatan]
+
+PIHAK KEDUA (Penyedia Jasa):
+- Nama: [Nama Kontraktor]
+- Alamat: [Alamat Lengkap]
+- NPWP: [Nomor NPWP]
+- Izin Usaha: [SBU Konstruksi]
+- Diwakili oleh: [Nama Direktur]
+
+2. Identitas Proyek
+- Nama Proyek: [Nama Lengkap Proyek]
+- Lokasi: [Alamat Lokasi Proyek]
+- Jenis Pekerjaan: [Pembangunan/Renovasi/dll]
+- Nilai Kontrak: Rp [Nilai] ([Terbilang])
+- Sumber Dana: [APBN/APBD/Swasta]
+
+II. RUANG LINGKUP PEKERJAAN
+
+1. Pekerjaan yang Disepakati
+- Pekerjaan Persiapan dan Pembersihan Lahan
+- Pekerjaan Struktur (Pondasi, Struktur Atas)
+- Pekerjaan Arsitektur (Dinding, Atap, Finishing)
+- Pekerjaan MEP (Mechanical, Electrical, Plumbing)
+- Pekerjaan Landscape dan Infrastruktur
+- Pengujian dan Commissioning
+
+2. Dokumen Kontrak
+- Surat Perintah Kerja (SPK)
+- Syarat-syarat Umum Kontrak
+- Syarat-syarat Khusus Kontrak
+- Spesifikasi Teknis
+- Gambar Kerja dan Shop Drawing
+- Bill of Quantity (BOQ)
+- Rencana Kerja dan Syarat (RKS)
+
+III. WAKTU PELAKSANAAN
+
+1. Jadwal Pelaksanaan
+- Masa Pelaksanaan: [X] hari kalender
+- Tanggal Mulai: [Tanggal]
+- Tanggal Selesai: [Tanggal]
+- Masa Pemeliharaan: 180 hari kalender
+- Perpanjangan waktu hanya dengan persetujuan tertulis
+
+2. Milestone dan Deliverables
+- Mobilisasi: Hari ke-7
+- Pekerjaan Struktur 50%: Hari ke-[X]
+- Pekerjaan Struktur 100%: Hari ke-[X]
+- Pekerjaan Finishing 50%: Hari ke-[X]
+- Serah Terima Pertama: Hari ke-[X]
+- Serah Terima Kedua: Hari ke-[X]
+
+IV. NILAI KONTRAK DAN PEMBAYARAN
+
+1. Rincian Biaya
+- Nilai Pekerjaan Utama: Rp [Nilai]
+- PPN 11%: Rp [Nilai]
+- Total Nilai Kontrak: Rp [Nilai]
+
+2. Sistem Pembayaran
+- Uang Muka: 20% setelah jaminan uang muka
+- Progress Payment: Berdasarkan kemajuan fisik
+- Retensi: 5% dari setiap pembayaran
+- Pembayaran Akhir: Setelah serah terima pertama
+- Pelepasan Retensi: Setelah masa pemeliharaan
+
+3. Denda dan Bonus
+- Denda keterlambatan: 1/1000 per hari dari nilai kontrak
+- Maksimum denda: 5% dari nilai kontrak
+- Bonus percepatan: [jika ada] per hari lebih cepat
+
+V. JAMINAN
+
+1. Jaminan yang Diperlukan
+- Jaminan Penawaran: 1% nilai penawaran
+- Jaminan Pelaksanaan: 5% nilai kontrak
+- Jaminan Uang Muka: 100% nilai uang muka
+- Jaminan Pemeliharaan: 5% nilai kontrak
+
+2. Penerbit Jaminan
+- Bank Umum yang tercatat di Bank Indonesia
+- Perusahaan Asuransi dengan rating minimum A
+- Jaminan berlaku sampai 28 hari setelah berakhir
+
+VI. KEWAJIBAN DAN TANGGUNG JAWAB
+
+1. Kewajiban Penyedia Jasa
+- Melaksanakan pekerjaan sesuai kontrak
+- Menyediakan tenaga ahli bersertifikat
+- Menyediakan material sesuai spesifikasi
+- Melakukan quality control dan testing
+- Menyerahkan dokumen as-built
+- Memelihara hasil pekerjaan
+
+2. Kewajiban Pengguna Jasa
+- Menyediakan lahan dan akses
+- Melakukan pembayaran tepat waktu
+- Memberikan gambar dan spesifikasi
+- Melakukan pengawasan pekerjaan
+- Menerima hasil pekerjaan sesuai kontrak
+
+VII. MANAJEMEN RISIKO
+
+1. Force Majeure
+- Bencana alam (gempa, banjir, dll)
+- Kerusuhan dan gangguan keamanan
+- Kebijakan pemerintah yang berubah
+- Pandemi atau wabah penyakit
+- Pemberitahuan dalam 7 hari
+
+2. Asuransi
+- Asuransi Tenaga Kerja (Jamsostek)
+- Asuransi Kecelakaan Kerja
+- Asuransi Kebakaran untuk material
+- Asuransi Tanggung Jawab Hukum
+- Certificate holder: Pengguna Jasa
+
+VIII. QUALITY ASSURANCE
+
+1. Standar Kualitas
+- Mengacu pada SNI dan standar internasional
+- Material bersertifikat dan approved
+- Workmanship sesuai best practice
+- Testing oleh laboratorium terakreditasi
+- Quality control plan approval
+
+2. Pengujian dan Inspeksi
+- Pengujian material sebelum aplikasi
+- Inspeksi kemajuan pekerjaan
+- Testing commissioning untuk MEP
+- Final inspection sebelum handover
+- Defect liability period 12 bulan
+
+IX. PENYELESAIAN SENGKETA
+
+1. Prosedur Penyelesaian
+- Musyawarah mufakat (30 hari)
+- Mediasi oleh pihak ketiga (60 hari)
+- Arbitrase melalui BANI
+- Hukum yang berlaku: Hukum Indonesia
+- Domisili hukum: [Kota lokasi proyek]
+
+2. Pemutusan Kontrak
+- Wanprestasi yang tidak dapat diperbaiki
+- Kepailitan salah satu pihak
+- Force majeure berkepanjangan >90 hari
+- Kesepakatan kedua belah pihak
+- Kompensasi sesuai kemajuan fisik
+
+X. KETENTUAN PENUTUP
+
+1. Perubahan Kontrak
+- Change order harus tertulis
+- Persetujuan kedua belah pihak
+- Impact terhadap waktu dan biaya
+- Dokumentasi lengkap untuk audit
+
+2. Serah Terima
+- Serah terima pertama (provisional)
+- Masa pemeliharaan 180 hari
+- Serah terima kedua (final)
+- Penyerahan dokumen as-built
+- Pelatihan operasional (jika diperlukan)
+
+Kontrak ini dibuat dalam 2 (dua) rangkap asli, masing-masing bermeterai cukup dan mempunyai kekuatan hukum yang sama.
+
+Dibuat di: [Kota], [Tanggal]
+
+PIHAK PERTAMA                    PIHAK KEDUA
+(Pengguna Jasa)                  (Penyedia Jasa)
+
+
+[Nama dan Jabatan]               [Nama Direktur]
+[Tanda Tangan + Stempel]         [Tanda Tangan + Stempel]
+
+Saksi-saksi:
+1. [Nama] - [Jabatan]
+2. [Nama] - [Jabatan]
